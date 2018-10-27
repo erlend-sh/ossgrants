@@ -2,9 +2,7 @@
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrU08WDvS4Bpe2Fx?backgroundColor=yellow&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
-## Submit your company data
-
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrjnkVGtZiCiSaGo?backgroundColor=yellow" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+[Submit your company data](https://airtable.com/shrjnkVGtZiCiSaGo) for the year 2017.
 
 # 2018 *estimates*
 
@@ -12,7 +10,7 @@
 
 ## Submit your company data
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrRDwmgXH28sha66?backgroundColor=yellow" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+[Submit your company data](https://airtable.com/shrRDwmgXH28sha66) for the year 2018.
 
 # FAQ
 
