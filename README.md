@@ -52,3 +52,7 @@ You can also think of these tiers in terms of a percentage of salary expenses. I
 ### What should companies be paying?
 
 That's what we're trying to figure out! The minimum amount required to get listed is $250 per employee, e.g. about 0.5% of a company's salary expenses. We are hoping to set the bar a little higher than that but as of now there is no recommended tier that companies should be shooting for. Just try to do right by the open source projects that enabled you to prosper.
+
+### What if a company falsely reports a grant?
+
+Since we require grants to be publicly announced it becomes very easy to fact-check these claims. Any supposed grant recipient can report back to us if a grant claim has seemingly not been honored.
