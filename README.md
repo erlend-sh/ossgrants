@@ -18,7 +18,7 @@ This is an open index of corporations and their respective grants to open source
 
 We do not take into account grants in the form of donated developer time, bug bounties, conference sponsorships or similar\*. These are all great practices which we encourage companies to continue, but an unconditional transfer of money affords a project a certain kind of independence that's hard to attain any other way.
 
-\* _This criteria will be more lax for 2017/2018 to get the list populated with noteworthy frontrunners.
+\* _This criteria will be more lax for 2017/2018 to get the list populated with noteworthy frontrunners._
 
 ### Who are we?
 
