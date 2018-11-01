@@ -49,10 +49,12 @@ Tiers are ranked high to low, higher being better. Each tier denotes an actual n
 
 You can also think of these tiers in terms of a percentage of salary expenses. If a company is paying its employees an average of $50'000-$60'000 per year (below Silicon Valley averages but a more than comfortable living wage for almost any place in the world), $2500-$2999 per employee would constitute about 5% of a company's total salary expenses.
 
+### What if a company falsely reports a grant?
+
+Since we require grants to be publicly announced it becomes very easy to fact-check these claims. Any supposed grant recipient can report back to us if a grant claim has seemingly not been honored.
+
 ### What should companies be paying?
 
 That's what we're trying to figure out! The minimum amount required to get listed is $250 per employee, e.g. about 0.5% of a company's salary expenses. We are hoping to set the bar a little higher than that but as of now there is no recommended tier that companies should be shooting for. Just try to do right by the open source projects that enabled you to prosper.
 
-### What if a company falsely reports a grant?
-
-Since we require grants to be publicly announced it becomes very easy to fact-check these claims. Any supposed grant recipient can report back to us if a grant claim has seemingly not been honored.
+A [survey by DigitalOcean](https://www.digitalocean.com/currents/october-2018/) found that 75% of respondents think that their organizations donate less than $1K to open source projects, and 9% donate more than $10K. Donation levels seem small considering that 42% of respondents work at companies larger than 100 employees. Overall, 50% of respondents believe that large tech companies contribute less to open source communities than they gain from them.
